@@ -1,0 +1,19 @@
+{
+  "name": "stream-through-p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/stream-through-p.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/stream-through-p/issues"
+  },
+  "homepage": "https://github.com/aredridel/stream-through-p#readme",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
